@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="nav-center">
         <Link to="/">
           <h2>
-            <span className="coctail-logo">Coctail</span> info
+            <span className="coctail-logo">Cocktail</span> info
           </h2>
         </Link>
       </div>
